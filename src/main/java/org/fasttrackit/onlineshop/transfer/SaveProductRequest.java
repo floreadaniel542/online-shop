@@ -6,9 +6,9 @@ public class SaveProductRequest { private String description;
     @NotNull
     private String name;
     @NotNull
-    private double price;
+    private Double price;
     @NotNull
-    private int quantity;
+    private Integer quantity;
     private String imageUrl;
 
     public String getDescription() {

@@ -1,4 +1,4 @@
-package org.fasttrackit.onlineshop;
+package org.fasttrackit.onlineshop.service;
 
 import org.fasttrackit.onlineshop.domain.Product;
 import org.fasttrackit.onlineshop.persistance.ProductRepository;
